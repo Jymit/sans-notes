@@ -1,4 +1,4 @@
-# my-SANS-notes
+# sans-notes
 SysAdmin, Audit, Network and Security Classroom thoughts and findings. NO CLASSROOM BOOKS OR NOTES HERE!
 
 SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling.
